@@ -1,0 +1,58 @@
+Tell us about yourself and your background.
+
+Describe a full rack setup to the best of your extent - how does data flow from one end to another? 
+Eg. Describe an ex3 rack and what each LRU does as though I am in High School.
+
+What does NC stand for? What does SDU stand for?
+
+Describe an issue you saw on the rack and your steps to troubleshooting it and resolving it completely. 
+
+Describe the steps you took towards troubleshooting an issue you saw on an eXW rack. 
+
+Where would I find the configuration files for the SDUs?
+
+Pretend you are troubleshooting a rack. When the flight is switched to "decomp", the "decomp" PRAM does not launch. 
+What would be your steps to troubleshoot this issue? 
+
+
+
+How would you rate your knowledge of Linux on a scale of 1-10, 7 being average?
+
+List 10 different Linux commands in increasing complexity and describe what each one does.
+
+Say I want to find a file called zhanar.txt in my system from root. What command would I run to do so?
+
+What command kills a running process in Linux?
+
+What does this command do? #grep -r "Daniel" *
+
+What does this command do? #tail -f 
+
+How many lines does the "#tail -f" command output by default?
+
+
+
+
+How would you rate your knowledge of SQL on a scale of 1-10, 7 being average?
+
+What does SQL stand for?
+
+Imagine I am a high schooler. Explain to me what SQL is and how a SQL database works.
+
+Explain to me what a primary key is as though I am a high shcooler. 
+
+What command would you use to list out all of the columns and types of a table named "Test"
+
+What table holds data for PRAMs?
+
+
+How would you rate your knowledge of Computer Networking on a scale of 1-10, 7 being average?
+Our Seatbacks utilize soft IPs, can you describe the concept of hard and soft IPs?
+How is the IP of an ADB set? 
+What is a static IP address and why is it required from our gateways to log into the racks? 
+What does IP stand for?
+What is a MAC address?
+
+Have you ever had a conflict or disagreement with a coworker of yours, and if so, how did you resolve it? 
+Describe your greatest strength and your greatest weakness.
+Why should we hire you? What would you bring to my team?

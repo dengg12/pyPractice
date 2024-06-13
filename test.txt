@@ -1,0 +1,11 @@
+1
+1
+12
+3
+4Tell us about yourself and your background.
+5
+6Describe a full rack setup to the best of your extent - how does data flow from one end to 7another? 
+7
+8Eg. Describe an ex3 rack and what each LRU does as though I am in High School.
+9
+LASTWhat does NC stand for? What does SDU stand for?
